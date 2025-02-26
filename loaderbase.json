@@ -3,7 +3,7 @@
         {
             "hwid": "1",
             "discord": "admin",
-            "till": "01.01.9999",
+            "till": "-",
             "banned": false
         }
     ]
