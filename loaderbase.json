@@ -2,7 +2,7 @@
     "users": [
         {
             "hwid": "4318407817968910245",
-            "discord": "admin",
+            "username": "admin",
             "till": "01.05.2026",
             "banned": false
         }
